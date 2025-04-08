@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b4bcca9b33c492c4fb7b202177d28151
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF 360RT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64c13f601314acc42813f8b9d4b2b6aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
